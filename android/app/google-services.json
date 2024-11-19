@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "450589154874",
+    "firebase_url": "https://duancuoiky-default-rtdb.firebaseio.com",
+    "project_id": "duancuoiky",
+    "storage_bucket": "duancuoiky.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450589154874:android:5657d290883b3676069f03",
+        "android_client_info": {
+          "package_name": "com.example.duancuoiky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9dk8AlxzNLDdFXjuuKXt9Kl5i1xALQ5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
